@@ -1,6 +1,3 @@
-# CRM Social - Nuvem do Bem
-# Simulação em Python para Sprint 1
-
 # Listas para armazenar os dados
 dentistas = []
 patrocinadores = []
